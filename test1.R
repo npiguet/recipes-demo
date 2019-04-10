@@ -1,4 +1,4 @@
 library(tidyverse)
 
-print("hello.world")
-Print("Hello to you!")
+print("Ni Hao")
+Print("NI Ye Hao")
